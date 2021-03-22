@@ -18,4 +18,4 @@ NoteMaker is Java based app to keep notes , write essays/articles. Users can add
 2. Import the Project in Android Studio
 3. Deploy the app to your android device and voila`... you are good to go!<br />
 
-![screenshot](https://github.com/radhika2312/NoteMaker/blob/master/login.jpeg)
+
